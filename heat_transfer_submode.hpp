@@ -6,7 +6,6 @@
 #include <functional>
 #include <Eigen/Dense>
 const double PI = 3.14159265358979323846;
-
 class HeatTransfer {
 private:
     // ²ÄÁÏÊôĞÔ
